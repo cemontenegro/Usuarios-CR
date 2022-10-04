@@ -1,0 +1,15 @@
+table {
+	width: 800px !important;
+	margin: auto;
+}
+
+main {
+	margin: auto;
+	width: 700px;
+	background-color: dimgray;
+	padding: 20px;
+	margin-top: 20px;
+}
+h1, h3{
+	color: #ffc107;
+}
